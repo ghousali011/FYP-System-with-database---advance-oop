@@ -1,0 +1,9 @@
+Id,Name,TotalMarks,TotalWeightage
+1,Proposal Defense,100,10
+2,SRS Document,100,10
+3,Design Document,100,10
+4,Midterm Presentation,100,15
+5,Implementation Progress,100,15
+6,Final Report,100,15
+7,Final Presentation,100,15
+8,Viva Voce,100,10

@@ -1,0 +1,11 @@
+Id,Value,Category
+1,Male,GENDER
+2,Female,GENDER
+3,Active,STATUS
+4,InActive,STATUS
+5,Student,USER_ROLE
+6,Professor,DESIGNATION
+7,Associate Professor,DESIGNATION
+8,Assisstant Professor,DESIGNATION
+9,Lecturer,DESIGNATION
+10,Industry Professional,DESIGNATION

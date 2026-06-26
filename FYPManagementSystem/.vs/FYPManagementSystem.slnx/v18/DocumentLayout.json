@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\dl\\dlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\dl\\dlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\dl\\advisordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\dl\\advisordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|d:\\career\\fyp system with database - advance oop\\fypmanagementsystem\\fypmanagementsystem\\ui\\reports\\reportsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\reports\\reportsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\ui\\evaluations\\evaluationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\evaluations\\evaluationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\ui\\studentevaluationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\studentevaluationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\dl\\sql\\sqlpersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\dl\\sql\\sqlpersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\dl\\evaluationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\dl\\evaluationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\model\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\model\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\utilities\\databasehelper .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\utilities\\databasehelper .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\bl\\reportsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\bl\\reportsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\ui\\studentevaluationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\studentevaluationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\ui\\reports\\reportsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\reports\\reportsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\ui\\reports\\marksheetreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\reports\\marksheetreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\fypmanagementsystem\\ui\\reports\\reportsmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF131F-894E-467D-8854-9F85A360C61D}|FYPManagementSystem\\FYPManagementSystem.csproj|solutionrelative:fypmanagementsystem\\ui\\reports\\reportsmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\App.config",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\App.config",
+              "RelativeToolTip": "FYPManagementSystem\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-04T08:25:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvisorDL.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\AdvisorDL.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\DL\\AdvisorDL.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\AdvisorDL.cs",
+              "RelativeToolTip": "FYPManagementSystem\\DL\\AdvisorDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Advisor.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\Model\\Advisor.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\Model\\Advisor.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\Model\\Advisor.cs",
+              "RelativeToolTip": "FYPManagementSystem\\Model\\Advisor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "person.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\Model\\person.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\Model\\person.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\Model\\person.cs",
+              "RelativeToolTip": "FYPManagementSystem\\Model\\person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportsMenu.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs",
+              "RelativeToolTip": "FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DLFactory.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\DLFactory.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\DL\\DLFactory.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\DLFactory.cs",
+              "RelativeToolTip": "FYPManagementSystem\\DL\\DLFactory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:23:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvaluationMenu.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Evaluations\\EvaluationMenu.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\Evaluations\\EvaluationMenu.cs",
+              "ToolTip": "D:\\New folder (2)\\UET\\Smester 2\\OOP\\Final Project\\Business Application\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Evaluations\\EvaluationMenu.cs*",
+              "RelativeToolTip": "..\\..\\..\\New folder (2)\\UET\\Smester 2\\OOP\\Final Project\\Business Application\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Evaluations\\EvaluationMenu.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:54:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentEvaluationsForm.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\StudentEvaluationsForm.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\StudentEvaluationsForm.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\StudentEvaluationsForm.cs",
+              "RelativeToolTip": "FYPManagementSystem\\UI\\StudentEvaluationsForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:25:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlPersonRepository.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\Sql\\SqlPersonRepository.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\DL\\Sql\\SqlPersonRepository.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\Sql\\SqlPersonRepository.cs",
+              "RelativeToolTip": "FYPManagementSystem\\DL\\Sql\\SqlPersonRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:01:24.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EvaluationDL.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\EvaluationDL.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\DL\\EvaluationDL.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\DL\\EvaluationDL.cs",
+              "RelativeToolTip": "FYPManagementSystem\\DL\\EvaluationDL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:02:57.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\Model\\Student.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\Model\\Student.cs",
+              "RelativeToolTip": "FYPManagementSystem\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseHelper .cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\utilities\\DatabaseHelper .cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\utilities\\DatabaseHelper .cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\utilities\\DatabaseHelper .cs",
+              "RelativeToolTip": "FYPManagementSystem\\utilities\\DatabaseHelper .cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsBL.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\BL\\ReportsBL.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\BL\\ReportsBL.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\BL\\ReportsBL.cs",
+              "RelativeToolTip": "FYPManagementSystem\\BL\\ReportsBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:59:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentEvaluationsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\StudentEvaluationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\StudentEvaluationsForm.Designer.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\StudentEvaluationsForm.Designer.cs",
+              "RelativeToolTip": "FYPManagementSystem\\UI\\StudentEvaluationsForm.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwIUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:46:38.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs [Design]",
+              "RelativeToolTip": "FYPManagementSystem\\UI\\Reports\\ReportsMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MarkSheetReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\MarkSheetReport.rdlc",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\Reports\\MarkSheetReport.rdlc",
+              "ToolTip": "D:\\New folder (2)\\UET\\Smester 2\\OOP\\Final Project\\Business Application\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\MarkSheetReport.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\..\\New folder (2)\\UET\\Smester 2\\OOP\\Final Project\\Business Application\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\MarkSheetReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-06-03T16:57:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsMenu.Designer.cs",
+              "DocumentMoniker": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\ReportsMenu.Designer.cs",
+              "RelativeDocumentMoniker": "FYPManagementSystem\\UI\\Reports\\ReportsMenu.Designer.cs",
+              "ToolTip": "D:\\Career\\FYP System with database - advance oop\\FYPManagementSystem\\FYPManagementSystem\\UI\\Reports\\ReportsMenu.Designer.cs",
+              "RelativeToolTip": "FYPManagementSystem\\UI\\Reports\\ReportsMenu.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:57:21.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

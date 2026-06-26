@@ -1,0 +1,307 @@
+﻿using FYPManagementSystem.DL;
+using FYPManagementSystem.Model;
+using FYPManagementSystem.UI.Colors;
+using FYPManagementSystem.utilities;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Security.Policy;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace FYPManagementSystem.UI.StudentUI
+{
+    public partial class StudentMenu : Form
+    {
+        private List<Panel> resizepanels = new List<Panel>();
+        private List<Label> resizelabels = new List<Label>();
+        private List<Panel> resizeStudentDataPanels = new List<Panel>();
+        public StudentMenu()
+        {
+            InitializeComponent();
+            this.Resize += new System.EventHandler(this.StudentMenu_Resize);
+            flowLayoutPanel1.SizeChanged += flowLayoutPanel1_SizeChanged;
+        }
+        private void StudentMenu_Resize(object sender, EventArgs e)
+        {
+            //button4.Left = panel6.Right + 20;
+            button4.Left = this.ClientSize.Width - button4.Width - 90;
+            flowLayoutPanel1_SizeChanged(sender, e);
+            int width = this.ClientSize.Width;
+            int height = this.ClientSize.Height;
+            int padding = 30;
+            // making first row panels responsive
+            button1.Left = panel1.Width - 253 + padding;
+            // making second row panels responsive
+            panel4.Left = 2*padding + 10;
+            //label3.Left = panel4.Right + 10;
+            // making second row ctrl move
+            panel7.Width = panel2.Width / 4;
+            panel11.Width = panel2.Width / 4;
+            panel12.Width = panel2.Width / 4;
+            panel9.Width = panel2.Width / 4;
+            setBorderstyling();
+        }
+        //private void MakeRowsResponsive()
+        //{
+        //    int rowWidth = flowLayoutPanel1.ClientSize.Width - SystemInformation.VerticalScrollBarWidth - 2;
+
+        //    foreach (Control row in flowLayoutPanel1.Controls)
+        //    {
+        //        row.Width = rowWidth;
+
+        //        Panel namePanel = row.Controls["panel13"] as Panel;
+        //        Panel regPanel = row.Controls["panel16"] as Panel;
+        //        Panel emailPanel = row.Controls["panel15"] as Panel;
+        //        Panel actionPanel = row.Controls["panel14"] as Panel;
+
+        //        if (namePanel != null) namePanel.Width = rowWidth / 4;
+        //        if (regPanel != null) regPanel.Width = rowWidth / 4;
+        //        if (emailPanel != null) emailPanel.Width = rowWidth / 4;
+        //        if (actionPanel != null) actionPanel.Width = rowWidth / 4;
+        //        foreach(Control smallControl in actionPanel.Controls)
+        //        {
+        //            Button editbutton = row.Controls["button2"] as Button;
+        //            Button deletebutton = row.Controls["button3"] as Button;
+
+        //            if (editbutton != null)
+        //            {
+        //                editbutton.Width = actionPanel.Width / 4;
+        //                editbutton.Left = actionPanel.Left + editbutton.Width/2;
+        //            }
+        //            if (deletebutton != null)
+        //            {
+        //                deletebutton.Width = actionPanel.Width / 4;
+        //                deletebutton.Left = actionPanel.Right - deletebutton.Width - deletebutton.Width/2;
+        //            }
+        //        }
+        //    }
+        //}
+        private void MakeRowsResponsive()
+        {
+            flowLayoutPanel1.WrapContents = false;
+            flowLayoutPanel1.AutoScroll = true;
+            flowLayoutPanel1.HorizontalScroll.Enabled = false;
+            flowLayoutPanel1.HorizontalScroll.Visible = false;
+            int rowWidth = flowLayoutPanel1.ClientSize.Width
+                           - SystemInformation.VerticalScrollBarWidth - 5;
+
+            foreach (Control row in flowLayoutPanel1.Controls)
+            {
+                row.Width = rowWidth;
+
+                Panel namePanel = row.Controls["panel13"] as Panel;
+                Panel regPanel = row.Controls["panel16"] as Panel;
+                Panel emailPanel = row.Controls["panel15"] as Panel;
+                Panel actionPanel = row.Controls["panel14"] as Panel;
+
+                int colWidth = rowWidth / 4;
+
+                if (namePanel != null) { namePanel.Width = colWidth; namePanel.Margin = new Padding(0); }
+                if (regPanel != null) { regPanel.Width = colWidth; regPanel.Margin = new Padding(0); }
+                if (emailPanel != null) { emailPanel.Width = colWidth; emailPanel.Margin = new Padding(0); }
+                if (actionPanel != null) actionPanel.Width = colWidth; actionPanel.Margin = new Padding(0); ;
+                if (actionPanel != null)
+                {
+                    actionPanel.Width = colWidth;
+
+                    Button editbutton = actionPanel.Controls["button2"] as Button;
+                    Button deletebutton = actionPanel.Controls["button3"] as Button;
+
+                    if (editbutton != null)
+                    {
+                        editbutton.Width = colWidth / 3;
+                        editbutton.Left = actionPanel.Left + colWidth / 6;
+                        //editbutton.Left = colWidth / 4 - editbutton.Width / 2;
+                    }
+
+                    if (deletebutton != null)
+                    {
+                        deletebutton.Width = colWidth / 3;
+                        deletebutton.Left = editbutton.Right + colWidth / 6;
+                        //deletebutton.Left = (3 * colWidth / 4) - deletebutton.Width / 2;
+                    }
+                }
+            }
+        }
+        private void LayoutPanels(Panel panel)
+        {
+            int formpadding = 60;
+            panel.Width = (this.ClientSize.Width - formpadding);
+        }
+        private void flowLayoutPanel1_SizeChanged(object sender, EventArgs e)
+        {
+            MakeRowsResponsive();
+        }
+        private void setBorderstyling()
+        {
+            List<Button> buttonList = new List<Button>()
+            {
+                button1
+            };
+            List<Panel> panelList = new List<Panel>()
+            {
+                flowLayoutPanel1,
+                panel4,
+                panel8
+            };
+            List<Label> labels = new List<Label>()
+            {
+            };
+            resizepanels.AddRange(panelList);
+            resizelabels.AddRange(labels);
+            borderStyling.RoundButtonList(buttonList, 30);
+            borderStyling.RoundPanelList(resizepanels, 20);
+            borderStyling.RoundLabelList(resizelabels, 20);
+        }
+        private void StudentMenu_Load(object sender, EventArgs e)
+        {
+                loadStudentsData();
+                MakeRowsResponsive();
+        }
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private async void loadStudentsData()
+        {
+            flowLayoutPanel1.Controls.Clear();
+            List<FYPManagementSystem.Model.Student> students;
+            if (textBox1 == null)
+            students = StudentDL.viewAllStudents();
+            else
+            {
+                string searchTerm = textBox1.Text.Trim();
+                students = StudentDL.searchStudentbyName(searchTerm);
+            }
+            foreach (var student in students)
+            {
+                Panel row = ClonePanel(panel6);
+                row.Visible = true;
+
+                row.Margin = new Padding(0);
+                row.Width = flowLayoutPanel1.ClientSize.Width - 20;
+                row.Anchor = AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top;
+
+
+
+                Label StudentName = row.Controls.Find("label11", true).FirstOrDefault() as Label;
+                Label RegistrationNo = row.Controls.Find("label7", true).FirstOrDefault() as Label;
+                Label Email = row.Controls.Find("label10", true).FirstOrDefault() as Label;
+                Label id = row.Controls.Find("label8", true).FirstOrDefault() as Label;
+                if (StudentName != null) StudentName.Text = $"{student.person.FirstName} {student.person.LastName}";
+                if (RegistrationNo != null) RegistrationNo.Text = student.RegistrationNo;
+                if (Email != null) Email.Text = student.person.Email;
+                if (id != null) id.Text = $"{student.person.id}";
+                id.Visible = false;
+                //row.Width = flowLayoutPanel1.ClientSize.Width;
+
+                //row.AutoSize = false;
+                //row.Margin = new Padding(0);
+                //ResizeRow(row);
+
+                flowLayoutPanel1.Controls.Add(row);
+                resizepanels.Add(row);
+
+                // Find the Edit button in the cloned row
+                Button editButton = row.Controls.Find("button2", true).FirstOrDefault() as Button;
+
+                if (editButton != null)
+                {
+                    editButton.Click += (s, e) =>
+                    {
+                        int studentId = Convert.ToInt32(student.person.id);
+                        using (AddStudent addForm = new AddStudent(studentId))
+                        {
+                            if (addForm.ShowDialog() == DialogResult.OK)
+                            {
+                                MessageBox.Show("Student Updated Successfully");
+                                loadStudentsData();
+                            }
+                        }
+                    };
+                }
+                // delete student 
+                Button deleteButton = row.Controls.Find("button3", true).FirstOrDefault() as Button;
+                if (deleteButton != null)
+                {
+                    deleteButton.Click += (s, e) =>
+                    {
+                        int studentId = Convert.ToInt32(student.person.id);
+                        if (MessageBox.Show("Are you sure?", "Confirm Delete", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                        {
+                            if (StudentDL.removeStudent(studentId))
+                            {
+                                MessageBox.Show("Student deleted successfully");
+                                loadStudentsData();
+                            }
+                            else
+                                MessageBox.Show("Failed to delete student");
+                        }
+                    };
+                }
+            }
+        }
+        // default clonepanel method
+        public Control CloneControl(Control source)
+        {
+            Control newCtrl = (Control)Activator.CreateInstance(source.GetType());
+
+            newCtrl.Name = source.Name;
+            newCtrl.Text = source.Text;
+            newCtrl.Location = source.Location;
+            newCtrl.Size = source.Size;
+            newCtrl.Font = source.Font;
+            newCtrl.BackColor = source.BackColor;
+            newCtrl.ForeColor = source.ForeColor;
+            newCtrl.Anchor = source.Anchor;
+            newCtrl.AutoSize = source.AutoSize;
+            newCtrl.Height = 60;
+
+            foreach (Control child in source.Controls)
+            {
+                newCtrl.Controls.Add(CloneControl(child));
+            }
+
+            return newCtrl;
+        }
+
+        public Panel ClonePanel(Panel source)
+        {
+            return (Panel)CloneControl(source);
+        }
+
+        private void panel17_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            using (AddStudent addForm = new AddStudent())
+            {
+                DialogResult result = addForm.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    MessageBox.Show("Student Added Successfully");
+                    loadStudentsData();
+                }
+            }
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            loadStudentsData();
+        }
+    }
+}

@@ -1,0 +1,644 @@
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe.config
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.pdb
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ZstdSharp.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\EnvDTE.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\stdole.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.pdb
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.AssemblyReference.cache
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.Properties.Resources.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AddAdvisor.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AdvisorMenu.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.Dashboard.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.DashboardData.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.AddStudent.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.StudentMenu.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.GenerateResource.cache
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.CoreCompileInputs.cache
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManag.5FFDB57C.Up2Date
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.exe
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.pdb
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddAdvisorForProject.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddProject.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.ProjectsMenu.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.GroupMenu.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AddMember.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.EvaluationMenu.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.AddEvaluation.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.DeactivateMember.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Reports.ReportsMenu.resources
+D:\New folder (2)\UET\Smester 2\DS\Midproject\gitlab\FinalYearProjectSystem\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AssignProject.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe.config
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.pdb
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ZstdSharp.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\EnvDTE.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\stdole.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.pdb
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.AssemblyReference.cache
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.Properties.Resources.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AddAdvisor.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AdvisorMenu.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.Dashboard.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.DashboardData.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.AddEvaluation.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.EvaluationMenu.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AddMember.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AssignProject.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.DeactivateMember.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.GroupMenu.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddAdvisorForProject.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddProject.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.ProjectsMenu.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Reports.ReportsMenu.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.AddStudent.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.StudentMenu.resources
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.GenerateResource.cache
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.CoreCompileInputs.cache
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManag.5FFDB57C.Up2Date
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.exe
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.pdb
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.exe
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.pdb
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.AssemblyReference.cache
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.Properties.Resources.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AddAdvisor.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AdvisorMenu.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.Dashboard.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.DashboardData.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.AddEvaluation.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.EvaluationMenu.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AddMember.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AssignProject.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.DeactivateMember.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.GroupMenu.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddAdvisorForProject.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddProject.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.ProjectsMenu.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Reports.ReportsMenu.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.AddStudent.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.StudentMenu.resources
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.GenerateResource.cache
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.CoreCompileInputs.cache
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe.config
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.pdb
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ZstdSharp.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\EnvDTE.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\stdole.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.pdb
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.xml
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManag.5FFDB57C.Up2Date
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (2)\UET\Smester 2\OOP\Final Project\Business Application\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.AssemblyReference.cache
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.Properties.Resources.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AddAdvisor.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.AdvisorUI.AdvisorMenu.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.Dashboard.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Dashboard.DashboardData.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.AddEvaluation.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Evaluations.EvaluationMenu.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AddMember.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.AssignProject.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.DeactivateMember.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Groups.GroupMenu.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddAdvisorForProject.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.AddProject.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Projects.ProjectsMenu.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.Reports.ReportsMenu.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.AddStudent.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.UI.StudentUI.StudentMenu.resources
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.GenerateResource.cache
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.csproj.CoreCompileInputs.cache
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.exe
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManagementSystem.pdb
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe.config
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.pdb
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ZstdSharp.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\EnvDTE.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\stdole.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Core.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Azure.Identity.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.pdb
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Google.Protobuf.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\MySql.Data.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Buffers.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ClientModel.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Formats.Asn1.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Memory.Data.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.AccessControl.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Text.Json.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\obj\Debug\FYPManag.5FFDB57C.Up2Date
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll

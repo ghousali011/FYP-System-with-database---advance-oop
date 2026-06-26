@@ -1,0 +1,13 @@
+Id,FirstName,LastName,Contact,Email,DateOfBirth,Gender
+1,Ahmad,Ali,03001234567,ahma.ali@email.com,2004-05-14,1
+2,Sajid,Khan,03112345678,sajid.khan@email.com,2003-08-22,1
+21,Zainab,Fatima,03223456789,zainab.fatima@email.com,2004-12-10,2
+4,Hamza,Ahmed,03334567890,hamza.ahmed@email.com,2003-03-05,1
+5,Ayesha,Bibi,03445678901,ayesha.bibi@email.com,2004-01-20,2
+30,Usman,Ghani,03016789012,usman.ghani@email.com,2003-06-30,1
+7,Hina,Nasir,03127890123,hina.nasir@email.com,2004-09-12,2
+8,Bilal,Saeed,03238901234,bilal.saeed@email.com,2003-11-25,1
+9,Sana,Javed,03349012345,sana.javed@email.com,2004-02-14,2
+44,Umer,Farooq,03450123456,umer.farooq@email.com,2003-07-08,1
+45,Ghous,,,ali@gmail.com,,1
+46,GHous,,,ali@gmail.com,,1
