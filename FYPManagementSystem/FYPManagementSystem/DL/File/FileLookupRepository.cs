@@ -10,25 +10,50 @@ namespace FYPManagementSystem.DL
         {
             string baseDir = AppDomain.CurrentDomain.BaseDirectory;
             string localPath = Path.Combine(baseDir, "DL", "Files") + Path.DirectorySeparatorChar;
-            if (Directory.Exists(localPath))
-            {
-                return localPath;
-            }
+            
+            // Always use the user's Local AppData directory.
+            string appDataPath = Path.Combine(
+                Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                "FYPManagementSystem",
+                "DL",
+                "Files"
+            ) + Path.DirectorySeparatorChar;
+
             try
             {
-                string devPath = Path.GetFullPath(Path.Combine(baseDir, "..", "..", "DL", "Files")) + Path.DirectorySeparatorChar;
-                if (Directory.Exists(devPath))
+                if (!Directory.Exists(appDataPath))
                 {
-                    return devPath;
+                    Directory.CreateDirectory(appDataPath);
+                }
+
+                // Check source directory to copy files from (check bin/DL/Files or development source)
+                string sourcePath = localPath;
+                if (!Directory.Exists(sourcePath))
+                {
+                    string devPath = Path.GetFullPath(Path.Combine(baseDir, "..", "..", "DL", "Files")) + Path.DirectorySeparatorChar;
+                    if (Directory.Exists(devPath))
+                    {
+                        sourcePath = devPath;
+                    }
+                }
+
+                // Copy initial empty/lookup database files from read-only directory
+                if (Directory.Exists(sourcePath))
+                {
+                    foreach (string file in Directory.GetFiles(sourcePath, "*.txt"))
+                    {
+                        string fileName = Path.GetFileName(file);
+                        string destFile = Path.Combine(appDataPath, fileName);
+                        if (!File.Exists(destFile))
+                        {
+                            File.Copy(file, destFile);
+                        }
+                    }
                 }
             }
             catch {}
-            try
-            {
-                Directory.CreateDirectory(localPath);
-            }
-            catch {}
-            return localPath;
+
+            return appDataPath;
         }
 
         private static string path = GetPath();

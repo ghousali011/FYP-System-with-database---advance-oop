@@ -16,7 +16,7 @@ Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\FY
 Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\*.dll"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\FYPManagementSystem.exe.config"; DestDir: "{app}"; Flags: ignoreversion
 Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\bin\Debug\SqlServerTypes\*"; DestDir: "{app}\SqlServerTypes"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\DL\Files\*"; DestDir: "{app}\DL\Files"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\FYPManagementSystem\DL\CleanFiles\*"; DestDir: "{app}\DL\Files"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "d:\Career\FYP System with database - advance oop\FYPManagementSystem\logo.ico"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
